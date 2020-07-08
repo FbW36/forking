@@ -1,17 +1,14 @@
 ### AMIT MAJUMDER.
 
-- 27 years old.
-- Only son of prents.
-- Student of dci
+
+- 27 years old. :blush:
+- Only son of parents.:smiley:
+- Student of dci :relaxed: 
 
   [DCI Website](https://digitalcareerinstitute.org/)
 
 
-# emoji
 
-:smiley:
-
-Sorry! emoji isn't displaying
 
 
 
