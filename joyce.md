@@ -1,13 +1,11 @@
-### Joyce Sosaya
+Joyce-feature
+# Hello :smile:
 
-Hello :smile:
-How are you? I am feeling  :sleeping:, 
-I am also :confused:
+## How are you?
 
-I will do some exercise later:
-- walking
-- running
-- playing badminton
-- dancing: my favorite dance/exercise is [Love to Dance](https://www.youtube.com/watch?v=Xewf0Ecyrfs)
-- yoga
+### Joyce here
+
+I am feeling :sleep: and :confused:
+
+I need to cook dinner now, let me ask google what I should cook. This [chicken recipe](https://cafedelites.com/grilled-lemon-herb-mediterranean-chicken-salad-recipe/) looks good :yum:
 
